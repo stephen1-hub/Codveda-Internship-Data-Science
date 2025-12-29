@@ -1,0 +1,13 @@
+## Task 3 – Churn Prediction Modeling
+
+In this task, I built a Logistic Regression model to predict customer churn.
+
+### Steps Performed
+- Split data into training and testing sets
+- Trained a Logistic Regression classifier
+- Evaluated model using accuracy, precision, recall, and F1-score
+- Identified key features influencing churn
+
+### Key Insight
+Customer service calls and international plan were the strongest predictors of churn.
+
