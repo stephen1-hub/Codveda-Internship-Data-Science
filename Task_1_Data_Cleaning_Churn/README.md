@@ -6,7 +6,7 @@ To clean and preprocess the raw telecom churn dataset in preparation for analysi
 ### Steps Performed
 - Inspected dataset structure and data types
 - Checked and confirmed missing values
-- Encoded categorical variables
+- Encoded categorical variables into numerical format
 - Ensured consistency across numerical features
 - Exported a cleaned dataset for downstream tasks
 
@@ -16,5 +16,4 @@ To clean and preprocess the raw telecom churn dataset in preparation for analysi
 - NumPy
 
 ### Outcome
-A clean and structured churn dataset ready for exploratory data analysis and machine learning.
-
+A clean and structured churn dataset, saved as a CSV file, ready for exploratory data analysis and machine learning.
