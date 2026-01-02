@@ -1,18 +1,30 @@
-## Task 3 – Classification (Iris Dataset)
+Task 3: Iris Classification
+Overview
 
-### Objective
-To build and evaluate a classification model using the Iris dataset.
+This task involves building classification models to predict the species of Iris flowers based on their features (sepal length, sepal width, petal length, petal width). Two models were implemented:
 
-### Planned Steps
-- Explore the Iris dataset
-- Train a classification model
-- Evaluate model performance using standard metrics
+Decision Tree Classifier
 
-### Tools to Be Used
-- Python
-- pandas
-- scikit-learn
+Logistic Regression Classifier
 
-### Status
-⏳ Work in progress. This task will be completed in subsequent stages of the internship.
+The project demonstrates basic data preprocessing, model training, and evaluation using Python and scikit-learn.
 
+Dataset
+
+The dataset used is the classic Iris dataset from scikit-learn, containing 150 samples across 3 species:
+
+Setosa
+
+Versicolor
+
+Virginica
+
+Features include:
+
+Sepal Length (cm)
+
+Sepal Width (cm)
+
+Petal Length (cm)
+
+Petal Width (cm)
